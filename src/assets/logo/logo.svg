@@ -32,25 +32,13 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g87296"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0" />
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient41102">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0"
-         id="stop41098" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1"
-         id="stop41100" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient19529">
@@ -73,15 +61,6 @@
        y2="50.439247"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.79624645,0,0,0.79624645,-25.688505,-1.163595)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient41102"
-       id="linearGradient41002"
-       x1="45.195656"
-       y1="15.555733"
-       x2="48.640285"
-       y2="28.802841"
-       gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -112,13 +91,13 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter59008"
-       x="-0.1185188"
-       y="-0.37164695"
-       width="1.2370376"
-       height="1.7432939">
+       x="-0.12216554"
+       y="-0.38308225"
+       width="1.2443311"
+       height="1.7661645">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.39109219"
+         stdDeviation="0.4031258"
          id="feGaussianBlur59010" />
     </filter>
     <filter
@@ -173,34 +152,50 @@
          stdDeviation="0.056310717"
          id="feGaussianBlur76128" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter87446"
+       x="-0.25709465"
+       y="-0.80618805"
+       width="1.5141893"
+       height="2.6123761">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.84836922"
+         id="feGaussianBlur87444" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-32.751503,-14.437219)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#2a0d8a;fill-opacity:0.996078;stroke:none;stroke-width:0.264583;stroke-opacity:1;filter:url(#filter48405)"
-       x="35.558006"
-       y="25.711245"
-       id="text44263"><tspan
-         sodipodi:role="line"
-         id="tspan44261"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a0d8a;fill-opacity:0.996078;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+    <g
+       id="g87352">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#2a0d8a;fill-opacity:0.996078;stroke:none;stroke-width:0.264583;stroke-opacity:1;filter:url(#filter48405)"
          x="35.558006"
-         y="25.711245">Hang</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-       x="35.558006"
-       y="25.711245"
-       id="text26182"><tspan
-         sodipodi:role="line"
-         id="tspan26180"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         y="25.711245"
+         id="text44263"><tspan
+           sodipodi:role="line"
+           id="tspan44261"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a0d8a;fill-opacity:0.996078;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="35.558006"
+           y="25.711245">Hang</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
          x="35.558006"
-         y="25.711245">Hang</tspan></text>
+         y="25.711245"
+         id="text26182"><tspan
+           sodipodi:role="line"
+           id="tspan26180"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="35.558006"
+           y="25.711245">Hang</tspan></text>
+    </g>
     <g
        id="g69878"
        transform="matrix(0.51427925,0,0,0.533788,25.258633,12.797138)">
@@ -225,51 +220,69 @@
          id="path66755"
          sodipodi:nodetypes="csscsc" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.42692px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#270a88;fill-opacity:1;stroke:none;stroke-width:0.210673;stroke-opacity:1;filter:url(#filter56535)"
-       x="54.608032"
-       y="40.509293"
-       id="text53867"
-       transform="rotate(-9.1300153)"><tspan
-         sodipodi:role="line"
-         id="tspan53865"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.42692px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#270a88;fill-opacity:1;stroke:none;stroke-width:0.210673;stroke-opacity:1"
+    <g
+       id="g87346">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.42692px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#270a88;fill-opacity:1;stroke:none;stroke-width:0.210673;stroke-opacity:1;filter:url(#filter56535)"
          x="54.608032"
-         y="40.509293">1010</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.42692px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient19531);fill-opacity:1;stroke:none;stroke-width:0.210673;stroke-opacity:1"
-       x="54.608032"
-       y="40.509293"
-       id="text6658"
-       transform="rotate(-9.1300153)"><tspan
-         sodipodi:role="line"
-         id="tspan6656"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.42692px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient19531);fill-opacity:1;stroke:none;stroke-width:0.210673;stroke-opacity:1"
+         y="40.509293"
+         id="text53867"
+         transform="rotate(-9.1300153)"><tspan
+           sodipodi:role="line"
+           id="tspan53865"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.42692px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#270a88;fill-opacity:1;stroke:none;stroke-width:0.210673;stroke-opacity:1"
+           x="54.608032"
+           y="40.509293">1010</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.42692px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient19531);fill-opacity:1;stroke:none;stroke-width:0.210673;stroke-opacity:1"
          x="54.608032"
-         y="40.509293">1010</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.52431px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#25068a;fill-opacity:1;stroke:none;stroke-width:0.0631081;filter:url(#filter59008)"
-       x="72.550804"
-       y="32.16206"
-       id="text56727"><tspan
-         sodipodi:role="line"
-         id="tspan56725"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.52431px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#25068a;fill-opacity:1;stroke-width:0.0631081"
+         y="40.509293"
+         id="text6658"
+         transform="rotate(-9.1300153)"><tspan
+           sodipodi:role="line"
+           id="tspan6656"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.42692px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient19531);fill-opacity:1;stroke:none;stroke-width:0.210673;stroke-opacity:1"
+           x="54.608032"
+           y="40.509293">1010</tspan></text>
+    </g>
+    <g
+       id="g87296"
+       transform="translate(-1.2567708,0.33072917)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.52431px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#25068a;fill-opacity:1;stroke:none;stroke-width:0.0631081;filter:url(#filter59008)"
          x="72.550804"
-         y="32.16206">.com</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.52431px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0631081"
-       x="72.550804"
-       y="32.16206"
-       id="text50299"><tspan
-         sodipodi:role="line"
-         id="tspan50297"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.52431px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.0631081"
+         y="32.16206"
+         id="text56727"><tspan
+           sodipodi:role="line"
+           id="tspan56725"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.52431px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#25068a;fill-opacity:1;stroke-width:0.0631081"
+           x="72.550804"
+           y="32.16206">.com</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.52431px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#25068a;fill-opacity:1;stroke:none;stroke-width:0.0631081;filter:url(#filter87446)"
          x="72.550804"
-         y="32.16206">.com</tspan></text>
+         y="32.16206"
+         id="text87398"><tspan
+           sodipodi:role="line"
+           id="tspan87396"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.52431px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#25068a;fill-opacity:1;stroke-width:0.0631081"
+           x="72.550804"
+           y="32.16206">.com</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.52431px;line-height:1.25;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0631081"
+         x="72.550804"
+         y="32.16206"
+         id="text50299"><tspan
+           sodipodi:role="line"
+           id="tspan50297"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.52431px;font-family:'SN NeoNoire';-inkscape-font-specification:'SN NeoNoire, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.0631081"
+           x="72.550804"
+           y="32.16206">.com</tspan></text>
+    </g>
   </g>
 </svg>
