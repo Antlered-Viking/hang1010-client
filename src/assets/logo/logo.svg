@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="50.100521mm"
-   height="19.88096mm"
-   viewBox="0 0 50.100521 19.880961"
+   width="51.877182mm"
+   height="21.657619mm"
+   viewBox="0 0 51.877182 21.65762"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4"
-     inkscape:cx="94.75"
-     inkscape:cy="20.25"
+     inkscape:cx="73.75"
+     inkscape:cy="9.5"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -99,26 +99,26 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter56535"
-       x="-0.054379594"
-       y="-0.13672808"
-       width="1.1087592"
-       height="1.2734562">
+       x="-0.12753396"
+       y="-0.32066207"
+       width="1.2550679"
+       height="1.6413241">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.48017792"
+         stdDeviation="1.1261392"
          id="feGaussianBlur56537" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter59008"
-       x="-0.069152487"
-       y="-0.21684585"
-       width="1.138305"
-       height="1.4336917">
+       x="-0.1185188"
+       y="-0.37164695"
+       width="1.2370376"
+       height="1.7432939">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.22819161"
+         stdDeviation="0.39109219"
          id="feGaussianBlur59010" />
     </filter>
     <filter
@@ -151,13 +151,13 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter76122"
-       x="-0.064887337"
-       y="-0.49062335"
-       width="1.1297747"
-       height="1.9813586">
+       x="-0.10807341"
+       y="-0.81723448"
+       width="1.2161468"
+       height="2.6345808">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.055826"
+         stdDeviation="1.8784744"
          id="feGaussianBlur76124" />
     </filter>
     <filter
@@ -215,7 +215,7 @@
          id="path66753"
          sodipodi:nodetypes="csscsc" />
       <path
-         style="opacity:0.7;fill:none;stroke:#26b888;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76122)"
+         style="opacity:1;fill:none;stroke:#26b888;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76122)"
          d="m 21.026421,31.388942 c 16.443869,-1.372178 18.722552,-2.203597 20.799821,-3.907828 0.832183,-0.682739 2.029002,-2.496551 3.426171,-2.074102 1.187523,0.35906 2.633672,0.979178 2.168687,2.543217 -0.272999,-2.222396 -2.681631,-1.690422 -2.48968,0.575167 0.225408,2.66047 10.882363,2.627211 21.812431,2.547431"
          id="path70892"
          sodipodi:nodetypes="csscsc" />
