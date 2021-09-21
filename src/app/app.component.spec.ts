@@ -20,16 +20,13 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'hang1010-blog'`, () => {
+  it(`should have as title 'hang1010-client'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('hang1010-blog');
+    expect(app.title).toEqual('hang1010-client');
   });
 
-  it('should render title', () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    fixture.detectChanges();
-    const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('hang1010-blog app is running!');
-  });
+  it('should have the appropriate background color', () => {
+    expect(window.getComputedStyle( document.body ,null).getPropertyValue('background-color')).toEqual('rgb(12, 0, 29)');
+  })
 });
