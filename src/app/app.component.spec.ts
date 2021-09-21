@@ -27,6 +27,6 @@ describe('AppComponent', () => {
   });
 
   it('should have the appropriate background color', () => {
-    expect(window.getComputedStyle( document.body ,null).getPropertyValue('background-color')).toEqual('#0c001d');
+    expect(window.getComputedStyle( document.body ,null).getPropertyValue('background-color')).toEqual('rgba(12, 0, 29, 1)');
   })
 });
