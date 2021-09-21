@@ -25,4 +25,11 @@ describe('AppComponent', () => {
     const app = fixture.componentInstance;
     expect(app.title).toEqual('Hang1010');
   });
+
+  it('should have the appropriate background color', () => {
+    const fixture = TestBed.createComponent(AppComponent);
+    const compiled = fixture.nativeElement(HTMLBodyElement);
+    expect(compiled.querySelector('.main-page')?.background).toContain('$mat-dark-theme-background');
+    // expect(app.body.getElementByID())
+  })
 });
