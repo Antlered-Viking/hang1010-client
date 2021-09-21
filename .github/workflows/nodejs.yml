@@ -1,0 +1,43 @@
+# This workflow will do a clean install of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Build and test with Node
+
+on:
+  push: # Run the workflow every time a push is made to the following branches
+    branches:
+      - "**" # Matches every branch
+      # - "*" # Matches every branch that doesn't contain a '/'
+      #- "*/*" # Matches every branch containing a single '/'
+      #- "!main" # Excludes main branch from triggering push actions
+    paths-ignore:
+      - "**.md" # Skip running the workflow if all we did was update markdown files
+  pull_request: # Run the workflow whenever a pull request is attempted against the following branches
+    branches:
+      - "**" # Run on all pull requests
+      #- "main" # Run on all PRs against the main branch
+      #- "feat/**" # Run against any PR that contains a new feature
+      #- "fix/**" # Run against any PR that contains a new bugfix
+    paths-ignore:
+      - "**.md" # Skip running the workflow if all the PR did was update a markdown file
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }} # Unwrap the os property of the matrix strategy
+
+    strategy:
+      matrix:
+        os: [macos-latest, windows-latest, ubuntu-latest] # Ensure any OS can run the workflow
+        node-version: [12.x, 14.x, 16.x] # Test against all recent versions of Node
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Using Node.js ${{ matrix.node-version }} on ${{ matrix.os }} # This will generate a dynamic name
+        uses: actions/setup-node@v2 # Download the action from the repo on GitHub
+        with:
+          node-version: ${{ matrix.node-version }} # Run the action with each version we specified above
+          cache: "npm" # Set up the caching module to use npm
+      - run: npm ci # Like running `npm install`, but better for a continuous integration environment
+      - run: npm run build --if-present # Run the build script, if available
+      - run: npm run lint # Ensure all files pass linting
+      - run: npm run test:ci # Run all tests headless, and output coverage results
