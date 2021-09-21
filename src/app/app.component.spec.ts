@@ -20,16 +20,13 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'Hang1010'`, () => {
+  it(`should have as title 'hang1010-client'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('Hang1010');
+    expect(app.title).toEqual('hang1010-client');
   });
 
   it('should have the appropriate background color', () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    const compiled = fixture.nativeElement(HTMLBodyElement);
-    expect(compiled.querySelector('.main-page')?.background).toContain('$mat-dark-theme-background');
-    // expect(app.body.getElementByID())
+    expect(window.getComputedStyle( document.body ,null).getPropertyValue('background-color')).toEqual('#0c001d');
   })
 });
