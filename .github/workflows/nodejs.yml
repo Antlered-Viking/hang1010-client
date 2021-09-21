@@ -39,5 +39,5 @@ jobs:
           cache: "npm" # Set up the caching module to use npm
       - run: npm ci # Like running `npm install`, but better for a continuous integration environment
       - run: npm run build --if-present # Run the build script, if available
-      - run: npm lint # Ensure all files pass linting
-      - run: npm test:ci # Run all tests headless, and output coverage results
+      - run: npm run lint # Ensure all files pass linting
+      - run: npm run test:ci # Run all tests headless, and output coverage results
