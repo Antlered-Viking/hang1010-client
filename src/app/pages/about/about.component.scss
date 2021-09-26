@@ -1,5 +1,3 @@
-@import "../../../theme.scss";
-
 .big-center-logo {
   display: block;
   margin-left: auto;
@@ -9,12 +7,10 @@
 }
 
 h1 {
-  color: #f61c4b;
   text-align: center;
 }
 
 p {
-  color: $light-text;
   margin-left: 15vw;
   margin-right: 15vw;
   text-align: center;

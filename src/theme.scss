@@ -246,3 +246,11 @@ $altTheme: mat-light-theme($theme-primary, $theme-accent, $theme-warn);
     font-family: 'Nunito';
   }
 }
+
+h1 {
+  color: var(--warn-color);
+}
+
+p {
+  color: $light-text;
+}
