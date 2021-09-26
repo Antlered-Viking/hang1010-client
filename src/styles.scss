@@ -11,6 +11,14 @@ body {
 }
 body {
   margin: 0;
-  font-family: Roboto, "Helvetica Neue", sans-serif;
+  font-family: Nunito, "Helvetica Neue", sans-serif;
   background-color: $dark-background;
+}
+
+h1 {
+  color: var(--warn-color);
+}
+
+p {
+  color: $light-text;
 }

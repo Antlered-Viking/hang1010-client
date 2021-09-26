@@ -26,7 +26,7 @@ describe('AppComponent', () => {
     expect(app.title).toEqual('hang1010-client');
   });
 
-  it('should have the appropriate background color', () => {
+  it('should have the appropriate background color (dark theme)', () => {
     expect(window.getComputedStyle( document.body ,null).getPropertyValue('background-color')).toEqual('rgb(12, 0, 29)');
   })
 });
